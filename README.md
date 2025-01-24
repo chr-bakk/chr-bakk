@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chr-bakk
 - 👀 I’m interested in code.
 - 🌱 I’m currently learning Web Audio API
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on glattRange with Opera.
 - 📫 How to reach me bakkiz@gmail.com
 
 <!---
